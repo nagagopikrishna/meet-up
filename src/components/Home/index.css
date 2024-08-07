@@ -1,0 +1,44 @@
+.app-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.home-container {
+  flex-grow: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.heading {
+  font-family: 'Roboto';
+  color: #334155;
+  font-size: 42px;
+  margin: 0px;
+}
+
+.description {
+  font-family: 'Roboto';
+  font-size: 24px;
+  color: #475569;
+  font-weight: 500;
+}
+
+.register-button {
+  background-color: #3b82f6;
+  border: 0px solid;
+  color: #ffffff;
+  text-align: center;
+  height: 34px;
+  width: 90px;
+  border-radius: 8px;
+  font-family: 'Roboto';
+  margin-bottom: 30px;
+  cursor: pointer;
+}
+
+.meet-up {
+  width: 790px;
+  height: 360px;
+}

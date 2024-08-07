@@ -1,0 +1,8 @@
+.nav-container {
+  display: flex;
+  padding: 40px;
+}
+
+.website-logo {
+  width: 230px;
+}

@@ -1,0 +1,52 @@
+.meet-register-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 70px;
+}
+
+.form-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.register-heading {
+  font-family: 'Roboto';
+  font-size: 39px;
+  color: #334155;
+}
+
+.label-element {
+  font-family: 'Roboto';
+  color: #475569;
+  font-weight: 500;
+  font-size: 14px;
+  margin-bottom: 10px;
+}
+
+.input-element {
+  border: 2px solid #cbd5e1;
+  padding: 10px;
+  width: 280px;
+  border-radius: 6px;
+  font-family: 'Roboto';
+  margin-bottom: 10px;
+  outline: none;
+}
+
+.website-register {
+  width: 390px;
+}
+
+.register-now-button {
+  background-color: #2563eb;
+  border: 0px solid;
+  width: 120px;
+  height: 40px;
+  border-radius: 8px;
+  color: #ffffff;
+  font-family: 'Roboto';
+  text-align: center;
+  margin-top: 20px;
+  cursor: pointer;
+}
